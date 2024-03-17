@@ -1,5 +1,5 @@
-# .WKND CROSSWALK MIGRATION POC
-Migrate any Site from any CMS TO CROSSWALK
+# WKND CROSSWALK MIGRATION POC
+  Transform any website effortlessly from its current CMS to the dynamic platform of Crosswalk with Edge Delivery Services Advantages 
 
 ## Environments
 - Preview: https://main--wknd-crosswalk--bpauli.hlx.page/
